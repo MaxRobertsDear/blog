@@ -1,5 +1,5 @@
 ---
-title: Pre-Course Week 1: Version Control
+title: Pre-Course Week 1 - Version Control
 date: "2019-03-17T23:46:37.121Z"
 ---
 
@@ -16,9 +16,9 @@ The command line interface (CLI) is a way for users to interact with software by
 
 The GUI is what most people use to navigate their computer. Below is an example of me opening the MakersProjects folder on my Desktop to view its contents:
 
+![Graphical User Interface (GUI)](./GUI.png)
 
 
-Graphical User Interface (GUI)
 Looks familiar, right?
 
 Below is a screenshot of what the same action would look like on the CLI. By printing the current working directory, using pwd , I can see that I am in the home directory (=>/Users/mac ). I can change directories into the MakersProjects folder using the cd command and list its contents with ls .
