@@ -1,6 +1,7 @@
 ---
 title: From Mechanical to Software Engineering
 date: "2019-03-10T22:12:03.284Z"
+description: Falling out of love with my career
 ---
 
 ### Falling out of love with my career

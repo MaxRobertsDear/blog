@@ -1,6 +1,7 @@
 ---
 title: First Group Project - Day 6 Reflections
 date: "2019-05-28T22:12:03.284Z"
+description: Libraries and backwards-compatability
 ---
 
 

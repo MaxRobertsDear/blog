@@ -1,6 +1,7 @@
 ---
 title: Pre-Course Week 2 - FizzBuzz
 date: "2019-03-24T23:46:37.121Z"
+description: DRYing up your code
 ---
 
 Weeks 2 and 3 of the Makers pre-course material delve deeper into the fundamentals of object [orientated languages](https://en.wikipedia.org/wiki/Object-oriented_programming) (Makers starts with Ruby for its easy syntax). Over the two week period, students follow a curriculum covering topics such as arrays, hashes and methods, with challenges set to test one’s understanding of each new topic as they are introduced.

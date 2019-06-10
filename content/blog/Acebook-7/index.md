@@ -1,6 +1,7 @@
 ---
 title: First Group Project - Day 7 Reflections
 date: "2019-05-29T22:12:03.284Z"
+description: Git workflow deepdive
 ---
 
 

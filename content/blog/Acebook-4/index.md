@@ -1,6 +1,7 @@
 ---
 title: First Group Project - Day 4 Reflections
 date: "2019-05-23T22:12:03.284Z"
+description: Adding DBs & the difference between prototype and MVP
 ---
 
 ### Week 1, Thursday, Morning, Stand up

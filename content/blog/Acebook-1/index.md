@@ -1,6 +1,7 @@
 ---
 title: First Group Project - Day 1 Reflections
 date: "2019-05-20T22:12:03.284Z"
+description: Getting started ..
 ---
 
 # Acebook Challenge

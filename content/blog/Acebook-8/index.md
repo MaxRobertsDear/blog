@@ -1,6 +1,7 @@
 ---
 title: First Group Project - Day 8 Reflections
 date: "2019-05-30T22:12:03.284Z"
+description: Cleaning up the codebase
 ---
 
 ### Week 2, Thursday, Morning

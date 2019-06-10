@@ -1,6 +1,7 @@
 ---
 title: First Group Project - Day 5 Reflections
 date: "2019-05-24T22:12:03.284Z"
+description: Experimenting with Devise, a Rails library that handles user authentication
 ---
 
 ### Week 1, Friday, Morning

@@ -1,6 +1,7 @@
 ---
 title: First Group Project - Day 3 Reflections
 date: "2019-05-22T22:12:03.284Z"
+description: CI/CD & sharing credit
 ---
 
 ### Week 1, Wednesday, Morning, Stand up

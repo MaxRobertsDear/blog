@@ -1,6 +1,7 @@
 ---
 title: Pre-Course Week 3 - What the Hash?
 date: "2019-03-31T23:46:37.121Z"
+description: Are hashes used for dictionaries or encryption? Or both?
 ---
 
 Weeks 2 and 3 of the Makers pre-course material delve deeper into the fundamentals of [object orientated languages](https://en.wikipedia.org/wiki/Object-oriented_programming) (Makers starts with [Ruby](https://www.ruby-lang.org/en/) for its easy syntax). Over the two week period, students follow a curriculum covering topics such as arrays, hashes and methods, with challenges set to test one’s understanding of each new topic as they are introduced.

@@ -1,6 +1,7 @@
 ---
 title: Pre-Course Week 4 - Creating A CL App from Scratch
 date: "2019-04-07T23:46:37.121Z"
+description: Learning the distinction between a REPL and a CLI
 ---
 
 Week 4 of the Makers Pre-Course is designed to equip students with a lot of the basic concepts and practices that will form the base for further development as a web developer.

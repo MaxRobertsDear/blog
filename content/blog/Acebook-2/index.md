@@ -1,6 +1,7 @@
 ---
 title: First Group Project - Day 2 Reflections
 date: "2019-05-21T22:12:03.284Z"
+description: Establishing MVP & encountering the drawbacks of mobbing
 ---
 
 ### Week 1, Tuesday, Morning, Stand up

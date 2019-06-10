@@ -1,6 +1,7 @@
 ---
 title: TDD - Chicago vs London Style
 date: "2019-04-21T23:46:37.121Z"
+description: Investigating the difference between unit and feature testing
 ---
 
 
