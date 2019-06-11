@@ -17,8 +17,8 @@ The command line interface (CLI) is a way for users to interact with software by
 
 The GUI is what most people use to navigate their computer. Below is an example of me opening the MakersProjects folder on my Desktop to view its contents:
 
-![Graphical User Interface (GUI)](./GUI.png)
 
+![Graphical User Interface (GUI)](./GUI.png)
 
 Looks familiar, right?
 

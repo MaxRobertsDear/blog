@@ -58,7 +58,7 @@ Applying the DRY principle to the above implementation, the most obvious sources
 * `puts` : appears four times
 
 
-![FizzBuzz-3](./FizzBuzz-3.png)
+![Fizzbuzz-3](./FizzBuzz-3.png)
 
 The refactored implementation has a few advantages over the previous ‘corrected’ one. If the challenge were to change and asked for Fizz to be printed for multiples of 7, we could easily modify our programme by altering a single line. On the ‘corrected’ solution, we would have had to modify two lines. And if we decided that we wanted to do something other than `puts` , we now only have to modify a single line instead of four.
 
