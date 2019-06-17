@@ -3,6 +3,8 @@ import { Link } from "gatsby"
 
 import { rhythm, scale } from "../utils/typography"
 
+
+
 class Layout extends React.Component {
   render() {
     const { location, title, children } = this.props
@@ -63,9 +65,15 @@ class Layout extends React.Component {
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, Built with
+          You can find me on: 
           {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          <a href="https://twitter.com/MAXHROBERTS">Twitter</a>
+          {` `}
+          <a href="https://github.com/MaxRobertsDear">GitHub</a>
+          {` `}
+          <a href="https://www.linkedin.com/in/maxrobertsdear/">LinkedIn</a>
+          {` `}
+
         </footer>
       </div>
     )
