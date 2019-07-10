@@ -1,7 +1,7 @@
 ---
 title: Strategy Coaching
-date: "2019-06-09T23:46:37.121Z"
-description: Running workshops to help my peers define a clear career path, thereby making them more effective at job applications.
+date: "2019-07-09T23:46:37.121Z"
+description: Running workshops to help my peers define a clear career path, thereby making them more effective at job applications
 ---
 
 ### The Problem
