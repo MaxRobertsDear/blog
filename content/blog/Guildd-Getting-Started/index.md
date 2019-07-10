@@ -1,10 +1,32 @@
 ---
 title: Guildd - Getting Acquainted with my 1st Open Source Project
 date: "2019-07-10T23:46:37.121Z"
-description: Why I started working on Guildd and setting up the environment
+description: Setting up the environment and why I started working on Guildd
 ---
 
-## Working on my First Pull Request
+### Dipping in my Toe
+
+**Instructions for my first pull request:**
+
+>> Essentially I'd like a declarative approach to writing forms, where the Fields and their Inputs can be described via JSX and errors can be supplied which are then rendered onto the Fields.
+
+Sounds easy, right?
+
+Depends on whether you're familiar with the tech stack. 
+
+Sticking points and technologies that I hadn't come across before:
+* Advanced react (such as hooks)
+* Libraries such as Formik 
+* ES6's destructuring 
+* `<Wrapper />`
+* Docker
+* Lambda-graphql
+* Webpack 
+and many more. 
+
+### Unfamiliar Territory
+
+Working on a project where I wasn't acquainted with every technology within it was new to me - until now, I helped build all my projects from scratch and so knew exactly which technologies were being used and why. Working on Guildd was different. I was jumping in at a point where the tech stack had been chosen and some basic features had already been implemented. 
 
 ### Getting Started - Setting up the Environment
 
@@ -37,31 +59,6 @@ How to test:
 ```bash
 yarn test
 ```
-
-
-### Dipping in my Toe
-
-**Instructions for my first pull request:**
-
->> Essentially I'd like a declarative approach to writing forms, where the Fields and their Inputs can be described via JSX and errors can be supplied which are then rendered onto the Fields.
-
-Sounds easy, right?
-
-Depends on whether you're familiar with the tech stack. 
-
-Sticking points and technologies that I hadn't come across before:
-* Advanced react (such as hooks)
-* Libraries such as Formik 
-* ES6's destructuring 
-* `<Wrapper />`
-* Docker
-* Lambda-graphql
-* Webpack 
-and many more. 
-
-### Unfamiliar Territory
-
-Working on a project where I wasn't acquainted with every technology within it was new to me - until now, I helped build all my projects from scratch and so knew exactly which technologies were being used and why. Working on Guildd was different. I was jumping in at a point where the tech stack had been chosen and some basic features had already been implemented. 
 
 ### Why Open Source
 
