@@ -65,7 +65,6 @@ class Layout extends React.Component {
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-          You can find me on: 
           {` `}
           <a href="https://twitter.com/MAXHROBERTS">Twitter</a>
           {` `}

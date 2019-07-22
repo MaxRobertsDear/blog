@@ -1,7 +1,7 @@
 ---
 title: Guildd Detour - Learning React
 date: "2019-07-20T23:46:37.121Z"
-description: Working on mini React projects to deepedn my understanding
+description: Working on mini React projects to deepen my understanding
 ---
 
 ### Contextual Learning
