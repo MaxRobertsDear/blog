@@ -1,17 +1,40 @@
 ---
-title: First Group Project - Day 1 Reflections
+title: 1st Group Project using Ruby-on-Rails
 date: "2019-05-20T22:12:03.284Z"
-description: Getting started ..
+description: Focus on developing good process
 ---
 
 # Acebook Challenge
 
-Below is a record of our processes and learning throughout the 2 week Facebook clone challenge.
+Having spent the first 8 of 12 weeks on the Makers software engineering course pairing on challenges, it was time for our first group project. Over a 2 week period, we would work in a team of 6 to build a Facebook clone.
 
-#### Week 1, Monday, Morning
-The 2 week project was kick-started with a morning stand-up in which the following goals were decided:
+The focus of this exercise was to develop good process:
 
-Timetable:
+
+**Testing**
+* 90% or greater test coverage.
+* You can articulate why any test exists (or does not exist).
+* Every feature is tested from the user's perspective.
+
+**Good distribution of work**
+* The team co-owns the code. 
+* Every member of the team has made commits.
+* Every completed ticket has a closed (or merged) Pull Request.
+
+**Quality of work**
+* Clear commit messages.
+* The Linter passes on all commits.
+* All pull requests are peer reviewed. 
+
+**Documentation**
+* A project description.
+* How to install and run it.
+* How to run tests.
+
+### What we did
+*The 2 week project was kick-started with a morning stand-up in which, among other things, the following goals were agreed upon:*
+
+*Timetable:*
 
 | Time          | Designation   | 
 | :-----------: | :------------:| 
@@ -20,30 +43,41 @@ Timetable:
 | 13:30         | Standup       |    
 | 16:45         | Retrospective | 
 
-* Set up a ticketing system on github
-* Turn project specifications into actionable user stories and add these to the ticketing system
-* Investigate CICD tools and choose one
-* Setup the whole project in ruby-on-rails
-* Investigate how to run feature and unit tests in rails and what to test for in rails
-* Investigate the file structure of a rails project
+* *Set up a ticketing system on github*
+* *Turn project specifications into actionable user stories and add these to the ticketing system*
+* *Investigate CICD tools and choose one*
+* *Setup the whole project in ruby-on-rails*
+* *Investigate how to run feature and unit tests in rails and what to test for in rails*
+* *Investigate the file structure of a rails project*
 
-#### Reflections
-Given that the learning goal for this two-week challenge is to learn how to use high-quality processes to build a project in a team, we decided on ruby-on-rails as our tech stack. 
-  
-The documentation for ruby and rails is very prescriptive, meaning less time spent on learning a new technology and allowing us more time to focus on developing high-quality project development processes. 
-  
-Github's inbuilt Cards option provides a convenient way of tracking/assigning project tasks. This was preferred by the team over trello as a neat way of keeping everything project-related in a single repository. 
-  
-Rails was a new technology for the whole team and it was therefore agreed that mobbing a practice project setup would be beneficial. This ensured that everyone is up to speed and in agreement on project file structure, thereby aiding maintainability of the project.
+### Let's cut to the chase
 
----
+#### Challenges
 
-#### Week 1, Monday, Afternoon
-Once the team felt happy with the basics of setting up a rails project, the following goals were agreed and delegated to 3 pairs:
-* Investigate project management options that are available on github
-* Write up meeting notes and reflect on team choices 
-* Convert project specifications into user stories.
+1. Each team member understanding every aspect of the project.
+2. Estimating how long it will take to complete a feature.
+3. Sharing commits to accurately reflect everyone's contributed efforts.
 
-#### Reflections
-The aim of the afternoon tasks was to get the project setup steps completed as far as possible, such that the team can make a start on writing the first tests and lines of functional code on Tuesday morning.
+#### Overcoming Challenges
+
+1. I suggested that we frequently switch who was working on which feature to ensure that everyone fully understood every aspect of the project. We were working in 3 pairs. So, 1 person from each pair would continue working on a given feature whilst the other person moved to work on a different feature. This aided contintuity by ensuring that at least 1 person was familiar with the code that had already been written. 
+2. Estimating time allocation is a skill that will be gained with experience. I overcame this challenge by being conservative and adding a 25% margin to all of our estimations.
+3. Remembering to add 'Co-authored-by: ... ' in our commits 
+
+
+#### Lessons learned
+
+The most important lesson that we learned is to consider and understand the full tech stack that you intend on using. Devise, a rails helper method, proved very useful in setting up user authentication. However, it wasn't as backwards compatible as we would have liked and we would have saved 2 days of work if we had used it sooner. 
+
+### Rounding Up
+
+Working in a group is by far the most fun that I have had coding thus far. Not only did I enjoy applying my learnings to something tangible, I also enjoyed collaborating with a team. Given the diversity of every team member's background, it was interesting to learn different approaches to solving the same problem. 
+
+If you're curious about our day-to-day progress, I kickstarted a Wikilog for our team and encouraged everyone to contribute:
+https://github.com/MaxRobertsDear/acebook-Isambard/wiki
+
+
+
+
+
 
