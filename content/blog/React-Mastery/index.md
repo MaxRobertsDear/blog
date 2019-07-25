@@ -74,3 +74,16 @@ Stateless:
 - only available in class based (there is an equivalent in functional components)
 - to fetch data from the web
 - do some clean up before a component is removed from the DOM
+
+#### When to optimize
+
+It might seem logical to add `React.memo()` or `shouldComponentUpdate` to all components:
+* every functional component could be wrapped with React.memo().
+* every class based component could implement shouldComponentUpdate.
+
+Is this sensible?
+Not always. Somme components will nearly always update when their parent updates. In such cases, adding `React.memo()` or `shouldComponentUpdate` slows down the app because of the additional code that is now being executed.
+
+Evaluation:
+Is this component related to a parent component that could change but does not effect the current component in any way? Then a check will be useful. 
+
