@@ -44,6 +44,33 @@ Pass properties of state down to chilren.
 
 Update state immutably.
 
-#### Rendering Lists and Conditional Components
+#### How to use React
 
+Use npm (or yarn) as dependency management tool. 
 
+Use Bundler (in this instance Webpack) to bundle all of our files together.
+
+Use Compiler (Babel) that translates modern JS features into workarounds that also work on older browsers. Babel can be hooked into the Webpack configuration so that it is part of the bundler process.
+
+Development server so that we, as a developer, can see what we’re building.
+
+#### Stateful and Stateless
+
+Stateless vs stateful / presentational vs container component
+
+Stateful:
+- when a component is managing state
+- historically meant a class based component
+- since React 16.8, hooks (which are functional based components) can ‘use state’, therefore manage their own state
+
+Stateless:
+- a.k.a. presentational or ‘dumb’ components
+- historically have always been functional components (because prior to react 16.8 these components could not manage state)
+-  you want to have many presentational components (or as few container components as possible) that do not manage state. 
+- Why? By splitting the stateful and dumb components, you make the app manageable. You have a nice workflow: you know where your state changes and the other presentation components are only there to render user interfaces. The dumb components only define on external inputs, props, making them highly predictable and therefore making the app easier to maintain.
+
+#### Component Lifecycle
+
+- only available in class based (there is an equivalent in functional components)
+- to fetch data from the web
+- do some clean up before a component is removed from the DOM
