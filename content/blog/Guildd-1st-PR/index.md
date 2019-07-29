@@ -1,6 +1,6 @@
 ---
 title: Guildd - My First Pull Request
-date: "2019-07-10T23:48:37.121Z"
+date: "2019-07-19T23:48:37.121Z"
 description: My first Open Source Project
 ---
 
@@ -18,11 +18,11 @@ I could have spent hours learning all of the technologies that were unfamiliar t
 * Formik - what is it and why is it used?
 * GraphQL - what are mutations?
 
-### Learning <Formik />
+### Learning `<Formik />`
 
-1. Read the documentation for <Formik /> and <Form /> (both of which were being used in the project already).
+1. Read the documentation for `<Formik />` and `<Form />` (both of which were being used in the project already).
 2. Watched video explaining Formik's motivation and philosophy and demo how to build a non-trivial form.
-#### Why forms are hard (according to the creator of Formik)
+Why forms are hard (according to the creator of Formik):
 >>* Wiring up state
 >>* Validation
 >>* Error messages
@@ -35,7 +35,7 @@ I could have spent hours learning all of the technologies that were unfamiliar t
 #### React Context and how it fits within Formik
 
 1. Read the documentation for React Context
-2. 
+2. Effectively, react context allows you to pass props without chaining. Thereby making your code more maintainable. 
 
 ### Learning GraphQL
 
@@ -45,9 +45,10 @@ Understood the use case of GraphQL by contextualising - how does it differ from 
 
 What is a benefit of the GraphQL schema and strong type system?
 
-Once the schema is defined, frontend and backend teams can work independently from one another. (I guessed this correctly, but I don't know why this answer is the case) ...
+Once the schema is defined, front-end and back-end teams can work independently from one another. 
 
-Mutations are a way of changing making changes to the data that is stored in the back-end. GraphQL mutations:
+Mutations are a way of making changes to the data that is stored in the back-end. 
+GraphQL mutations:
 * create
 * update
 * delete

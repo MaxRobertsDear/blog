@@ -1,6 +1,6 @@
 ---
 title: Guildd - Getting Acquainted with my 1st Open Source Project
-date: "2019-07-10T23:46:37.121Z"
+date: "2019-07-18T23:46:37.121Z"
 description: Setting up the environment and why I started working on Guildd
 ---
 
@@ -37,7 +37,6 @@ I shan't bore you with the details, but I updated the README with the following 
 ```bash
 yarn install
 brew install aws-sam-cli
-brew link aws-sam-cli --overwrite --force
 brew install watchman
 brew install postgis
 

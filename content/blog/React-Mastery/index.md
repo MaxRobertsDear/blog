@@ -89,6 +89,10 @@ Is this component related to a parent component that could change but does not e
 
 #### How React updates the DOM
 
-React does not automatically update the DOM when render() is called. Instead, when render() is called, React produces a re-rendered virtual DOM. The re-rendered virtual DOM is compared to the old virtual DOM. If any changes are detected between the re-rendered virtual DOM and the new virtual DOM, then the real DOM is updated. Even then, not the whole of the DOM is re-rendered, but instead only the parts that were different.
+React does not automatically update the DOM when render() is called. Instead, when render() is called, React produces a re-rendered virtual DOM. The re-rendered virtual DOM is compared to the old virtual DOM. If any changes are detected between the re-rendered virtual DOM and the new virtual DOM, then the real DOM is updated. Even then, not the whole of the DOM is re-rendered, but instead only the parts that were different. 
 
 This saves time because it is much faster to create and compare the virtual DOM than it is to re-render the real DOM.
+
+#### Higher Order Components (HOC)
+
+Higher order components can be used to add styles, html code or some JS logic. 
