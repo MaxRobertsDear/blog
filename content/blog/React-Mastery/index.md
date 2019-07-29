@@ -12,7 +12,7 @@ This is the approach that I intended to use when working on Guildd, the first Op
 
 To gain a better understanding of what *could* be done using the React library, it seemed pertinent to take a React course. By doing this, I hoped to gain a high level understanding of all the features available with React and in what context one might be favourable over the other. 
 
-Keeping sight of the end goal - contributing to Guildd - I decided to timebox my learning of React to a weekend. 
+The estimated time to complete the React course is 4 weeks. Keen to apply my newly acquired knowledge as soon as possible rather than learning for the sake of learning, I set myself the challenge of completing the course in 2 weeks.
 
 ### React Course
 
@@ -96,3 +96,9 @@ This saves time because it is much faster to create and compare the virtual DOM 
 #### Higher Order Components (HOC)
 
 Higher order components can be used to add styles, html code or some JS logic. 
+
+#### Reflections
+
+A lot of the information mentioned above was already familiar to me, but I enjoyed taking the time to dive a little deeper into why and how react works the way that it does. 
+
+My previous react project was completed to a tight timeline of 7 days. Given enough time to cover the above material, the code in our project would have been a lot neater and easier to navigate.
