@@ -38,7 +38,8 @@ function Bio() {
               }}
             />
             <p>
-              <strong>{author}</strong>'s journey into the mysterious world of tech.       
+              {author}'s journey into the mysterious world of tech. 
+              <div><strong> Hi Elliot, Matt and Kevin 👋. Thanks for stopping by.</strong></div>
               {` `}
             </p>
           </div>
