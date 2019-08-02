@@ -55,4 +55,4 @@ Data is retrieved from firebase, where result.data will return a list of objects
 
 To map these objects into an array, I'm iterating across each key in todoData and pushing the key and associated name (which contains the text of the todo item) to the todos array. Using the setTodoList(), I am then updating state. 
 
-The second argument passed, todoName, means that useEffect() will re-render everytime todoName changes
+The second argument passed, todoName, means that useEffect() will re-render everytime todoName changes.
