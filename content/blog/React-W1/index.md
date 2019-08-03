@@ -4,9 +4,9 @@ date: "2019-09-02T23:46:37.121Z"
 description: React Hooks
 ---
 
-Having built a [sample project](https://github.com/MaxRobertsDear/Buger-Builder-React) using the containers / presentational components structure, I was curious about whether it might be easier to follow the flow of data (and whether the components managing state might be easier to test) using hooks instead of class-based components. 
+Having built a [side project](https://github.com/MaxRobertsDear/Buger-Builder-React) using the containers / presentational components structure, I was curious about whether it might be easier to follow the flow of data (and whether the components managing state might be easier to test) using hooks instead of class-based components. 
 
-So, I set out to completely re-structure my project by replacing the class based components with hooks. To approach this task with a bit more confidence, I built a mini side project to practice using hooks and understand the context in which they may be helpful. 
+So, I set out to completely re-structure my project by replacing the class based components with hooks. To approach this task with a bit more confidence, I built a mini [Todo List project](https://github.com/MaxRobertsDear/React-Hooks) to practice using hooks and understand the context in which they may be helpful. 
 
 Below are my notes on each of the hook methods:
 
@@ -56,3 +56,8 @@ Data is retrieved from firebase, where result.data will return a list of objects
 To map these objects into an array, I'm iterating across each key in todoData and pushing the key and associated name (which contains the text of the todo item) to the todos array. Using the setTodoList(), I am then updating state. 
 
 The second argument passed, todoName, means that useEffect() will re-render everytime todoName changes.
+
+### useContext() 
+
+### useReducer()
+
