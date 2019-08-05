@@ -61,4 +61,3 @@ The second argument passed, todoName, means that useEffect() will re-render ever
 
 ### useReducer()
 
-[Video](https://www.youtube.com/watch?v=dya6skdF1jE&feature=youtu.be)
