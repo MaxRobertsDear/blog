@@ -4,7 +4,7 @@ date: "2019-08-02T23:46:37.121Z"
 description: React Hooks
 ---
 
-Having built a [side project](https://github.com/MaxRobertsDear/Buger-Builder-React) using the containers / presentational components structure, I was curious about whether it might be easier to follow the flow of data (and whether the components managing state might be easier to test) using hooks instead of class-based components. 
+Having built a [side project](https://www.youtube.com/watch?v=paqPJm1JUO0&feature=youtu.be) using the containers / presentational components structure, I was curious about whether it might be easier to follow the flow of data (and whether the components managing state might be easier to test) using hooks instead of class-based components. 
 
 So, I set out to completely re-structure my project by replacing the class based components with hooks. To approach this task with a bit more confidence, I built a mini [Todo List project](https://github.com/MaxRobertsDear/React-Hooks) to practice using hooks and understand the context in which they may be helpful. 
 
