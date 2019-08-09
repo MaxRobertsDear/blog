@@ -5,7 +5,7 @@ description: A deep dive into the code I've written for a side project that I ha
 ---
 
 
-https://www.youtube.com/watch?v=2lsXtHzSUOM&feature=youtu.be
+https://www.youtube.com/watch?v=paqPJm1JUO0&feature=youtu.be
 
 Here's a video that I have recorded, diving into the code for a side project that I have been working on. 
 
