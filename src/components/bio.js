@@ -39,7 +39,6 @@ function Bio() {
             />
             <p>
               {author}'s journey into the mysterious world of tech. 
-              <div><strong> Hi Elliot, Matt and Kevin 👋. Thanks for stopping by.</strong></div>
               {` `}
             </p>
           </div>
