@@ -4,7 +4,7 @@ date: "2019-07-20T23:46:37.121Z"
 description: Working on mini React projects to deepen my understanding
 ---
 
-### Contextual Learning
+### Contextual Learnings
 
 I am an advocate for contextual learning: trying to tackle a problem first and then learning the material required to solve it. 
 
