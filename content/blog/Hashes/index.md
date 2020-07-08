@@ -1,5 +1,5 @@
 ---
-title: Pre-Course Week 3 - What the Hash?
+title: What the Hash?
 date: "2019-03-31T23:46:37.121Z"
 description: Are hashes used for dictionaries or encryption? Or both?
 ---

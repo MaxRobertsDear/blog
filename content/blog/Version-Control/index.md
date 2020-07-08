@@ -1,7 +1,7 @@
 ---
-title: Pre-Course Week 1 - Version Control
+title: Version Control
 date: "2019-03-17T23:46:37.121Z"
-description: Tackling git workflow commands
+description: The basics
 ---
 
 The Makers Academy course comprises 16 weeks: 4 weeks of preparation work, which is done remotely in your own time, followed by a full-time 12 week course onsite.

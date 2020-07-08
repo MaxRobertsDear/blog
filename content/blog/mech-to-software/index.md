@@ -1,35 +1,29 @@
 ---
 title: From Mechanical to Software Engineering
 date: "2019-03-10T22:12:03.284Z"
-description: Falling out of love with my career
+description: Why I chose software engineering
 ---
 
-### Falling out of love with my career
-By social norms, I had done everything ‘right’. Yet, despite having ‘made it’, I found my career prospects lacklustre and unfulfilling.
+### Wanting greater control over the final product
 
-It was whilst watching an interview with [Chamath Palihapitiya](https://www.youtube.com/watch?v=PMotykw0SIk), founder and CEO of Social Capital, that I realised that I had spent my whole academic career checking boxes:
+Attracted by the promise of influencing London’s skyline and working on cutting-edge technologies, I entered the world of architecture. 
 
-☑︎ good grades from college
-
-☑︎ take a gap year to “find myself”
-
-☑︎ gain a master’s degree from a prestigious University
-
-☑︎ land a graduate scheme with a Fortune 500 company
-
-Attracted by the promise of influencing London’s skyline and working on cutting-edge technologies, I entered the world of architecture. I had grown passionate about using the skills that I had acquired through my engineering degree to effect positive change. The construction industry offered a significant opportunity to do so — the running of buildings account for ⅓ of global carbon dioxide emissions (see the [UN’s Global Status Report](https://www.worldgbc.org/sites/default/files/UNEP%20188_GABC_en%20%28web%29.pdf%29)).
+I had grown passionate about using the skills that I had acquired through my engineering degree to effect positive change. The construction industry offered a significant opportunity to do so — the running of buildings account for ⅓ of global carbon dioxide emissions (see the [UN’s Global Status Report](https://www.worldgbc.org/sites/default/files/UNEP%20188_GABC_en%20%28web%29.pdf%29)).
 
 Although I got to work on interesting technical problems and collaborate with multi-disciplinary teams, I became disillusioned with the design process.
 
 Whilst clients (in this instance, the Property Developers) are initially enthusiastic at trying new and exciting energy-saving technologies at the conceptual design stages of a project, their enthusiasm will often fade when confronted with the capital cost of implementing unconventional technologies. The few projects that were delivered according to our spec, tended to be buildings into which the clients would be moving themselves. By moving into an energy efficient building, the higher capital costs for greener technologies are offset by the long-term cost savings of running the building.
 
-In many cases, aspects of our design would be altered beyond recognition or “value engineered” with the client, followed by further value engineering efforts by the Building Contractors (the engineers who would carry out the installation on-site). The result being a building with a significantly higher carbon footprint, in the pursuit of making a profit. When the finished product is so far removed from your design, you start to question the value that you are adding.
+In many cases, aspects of our design would be altered beyond recognition or “value engineered” with the client, followed by further value engineering efforts by the Building Contractors (the engineers who would carry out the installation on-site). The result being a building with a significantly higher carbon footprint, in the pursuit of making a profit. 
+
+When the finished product is so far removed from your design, you start to question the value that you are adding.
 
 *January 2018, I found myself researching the software engineering industry. It seemed like the perfect fit.*
 
 ---
 
-### Why I am transitioning to software development
+### The draw to software development
+
 You’re only limited by your imagination. I love the idea that you can build whatever you’re able to think of. Software engineers have the unique ability to take any idea to fruition where the cost is overwhelmingly one’s time. Once you have a laptop and Internet access, the possibilities are almost boundless. In mechanical engineering, besides one’s talent to even operate in the space, you need a lot of capital to get a working prototype let alone taking it all the way to production.
 
 There is plenty of scope for a **highly varied career**, from developing apps that disrupt the banking sector (e.g. Monzo or Starling) to improving the patient experience in healthcare. Babylon, for example, has been able to revolutionize the healthcare industry by reducing the first-contact time for a general practitioner from 1 week to 1 hour through the innovative use of video calling technology. I’m extremely excited about this shift towards the 21st century in a technical capacity as well as the far reaching societal improvements from such a simple mobile app.
@@ -70,7 +64,7 @@ Don’t let yourself fall victim to time pressure by accepting a job that you ar
 
 **Entering the market as a junior developer is likely going to take time. Make sure you plan accordingly.**
 
-### Why Makers, a London based bootcamp, is the right choice for me
+### Why Makers, a London based bootcamp, was the right choice for me
 **The people**, first and foremost: having compared the bootcamps online, it was clear to me that the only way I would definitively discover my preference was to meet the leaders of the course in person. Whilst most bootcamps showed enthusiasm, none displayed their concern for student well-fare quite as much as Makers. My first encounter with Makers was with a member of their marketing team. As someone who had only been with the company for 6 months, I was astounded at the level of knowledge she had for the syllabus, the style of teaching, where the alumni ended up commencing their coding careers and what backgrounds they came from. Having a brand ambassador be so passionate about their work speaks volumes for the company.
 
 **Engagement:** Alumni had reported that the careers team was not extensive enough to cope with the demand. Makers responded by expanding their team, thereby demonstrating their commitment to delivering excellent service to their students.

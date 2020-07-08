@@ -1,5 +1,5 @@
 ---
-title: Pre-Course Week 2 - FizzBuzz
+title: FizzBuzz
 date: "2019-03-24T23:46:37.121Z"
 description: DRYing up your code
 ---

@@ -1,18 +1,8 @@
 ---
-title: Guildd Detour - Learning React
+title: What is React
 date: "2019-07-20T23:46:37.121Z"
-description: Working on mini React projects to deepen my understanding
+description: A brief overview 
 ---
-
-### Contextual Learnings
-
-I am an advocate for contextual learning: trying to tackle a problem first and then learning the material required to solve it. 
-
-This is the approach that I intended to use when working on Guildd, the first Open Source project I was contributing to. However, it was becoming apparent that the gaps in my knowledge for the tech stack were a blocker to my ability to contribute in a meaningful way. In particular, I was struggling to implement React features. Though I had built a project using React before, I had barely scratched the surface of the main concepts, let alone understand the context in which the advanced concepts could be used. 
-
-To gain a better understanding of what *could* be done using the React library, it seemed pertinent to take a React course. By doing this, I hoped to gain a high level understanding of all the features available with React and in what context one might be favourable over the other. 
-
-The estimated time to complete the React course is 4 weeks. Keen to apply my newly acquired knowledge as soon as possible rather than learning for the sake of learning, I set myself the challenge of completing the course in 2 weeks.
 
 ### React Course
 
