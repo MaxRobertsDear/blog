@@ -38,8 +38,9 @@ function Bio() {
               }}
             />
             <p>
-              {author}'s journey into the mysterious world of tech. 
-              {` `}
+              {author}
+              <br />
+              A space to share my learnings 🙇🏼‍♂️📝📚
             </p>
           </div>
         )
