@@ -4,7 +4,7 @@ date: "2020-07-26T09:55:37.121Z"
 description: How to write UI tests with custom matchers
 ---
 
-#### Set up jest prest
+#### Set up jest preset
 > jest.config.js
 ```
 module.exports = {
