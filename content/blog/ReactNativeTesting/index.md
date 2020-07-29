@@ -4,6 +4,25 @@ date: "2020-07-26T09:55:37.121Z"
 description: How to write UI tests with custom matchers
 ---
 
+## The Challenge
+Want to write maintainable tests for your React components? 
+
+Want your tests to avoid including implementation details of your components 
+and rather focus on making your tests give you the 
+confidence for which they are intended? 
+
+Of course you do. 
+
+## A Solution
+[React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+
+> "Rather than dealing with instances of rendered React components, your tests will work with actual DOM nodes. 
+> The utilities this library provides facilitate querying the DOM in the same way the user would."
+
+Using React Testing Library encourages you to write your tests by finding form elements by their label text (just like a user would), finding links and buttons from their text (like a user would).
+
+
+## Configuration and Setup
 #### Set up jest preset
 > jest.config.js
 ```
